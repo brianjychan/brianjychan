@@ -2,14 +2,14 @@
 
 - Hardware
 - Cultural Averages
-- Cities -> [Information intake](https://birdwatching.netlify.app)
+- [Information intake](https://birdwatching.netlify.app)
 
 Topics on backburner:
 
 - Human Augmentation: can we use newly-introduced technology to improve preemptive cardiovascular medicine?
 
 
-(What came out of last time: [Music](https://soundcloud.com/brianjychan/sets/extensions))
+(What came out of last time: [Music](https://soundcloud.com/brianjychan/sets/extensions), Cities became Information intake)
 
 ### Most recently:
 
