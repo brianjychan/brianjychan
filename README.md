@@ -24,7 +24,7 @@ Topics on backburner:
 
 ### What I'm...
 
-browsing: [brianjychan/links](https://brianjychan.com/links)
+browsing: <a href="https://brianjychan.com/links" rel="noopener noreferrer" target="_blank">brianjychan/links</a>
 
 reading: [goodreads/brianjychan](https://goodreads.com/brianjychan)
 
