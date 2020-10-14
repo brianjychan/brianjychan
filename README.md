@@ -11,17 +11,22 @@ Topics on backburner:
 
 (What came out of last time: [Music](https://soundcloud.com/brianjychan/sets/extensions), Cities became Information intake)
 
-### Most recently:
+<br/>
+
+### I've been making:
+
+[Birdwatching](https://birdwatching.netlify.app): intentionally design your Twitter using social graph categorization. Currently working on curation tools, and customizable logic.
 
 [AMFM: All My Friends' Music](https://amfm.me): get a private playlist, updated daily, containing any new songs that chosen friends add to their playlists.
 
-[Birdwatching](https://birdwatching.netlify.app): intentionally design your Twitter using social graph categorization. Currently working on curation tools, and customizable logic.
+
+<br/>
 
 ### More About 
 
 What I'm...
 
-[finding online](https://brianjychan.com/links)
+[browsing](https://brianjychan.com/links)
 
 [reading](https://goodreads.com/brianjychan)
 
@@ -29,12 +34,13 @@ What I'm...
 
 [mixing](https://soundcloud.com/brianjychan/sets/extensions)
 
-[listening to](https://open.spotify.com/user/1246296634?si=3QNGrHBLQUaBuFRiMozdOg)
+[hearing](https://open.spotify.com/user/1246296634?si=3QNGrHBLQUaBuFRiMozdOg)
 
 [being](https://brianjychan.com)
 
 Send a message! Contact info on my site
 
+<br/>
 
 ### Support 
 
