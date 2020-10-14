@@ -22,9 +22,7 @@ Topics on backburner:
 
 <br/>
 
-### More About 
-
-What I'm...
+### What I'm...
 
 browsing: [brianjychan/links](https://brianjychan.com/links)
 
