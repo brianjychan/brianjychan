@@ -17,7 +17,7 @@ Topics on backburner:
 
 [Birdwatching](https://birdwatching.netlify.app): intentionally design your Twitter using social graph categorization. Currently working on curation tools, and customizable logic.
 
-[AMFM: All My Friends' Music](https://amfm.me): get a private playlist, updated daily, containing any new songs that chosen friends add to their playlists.
+[AM/FM: All My Friends' Music](https://amfm.me): get a private playlist, updated daily, containing any new songs that chosen friends add to their playlists.
 
 
 <br/>
@@ -26,19 +26,20 @@ Topics on backburner:
 
 What I'm...
 
-[browsing](https://brianjychan.com/links)
+browsing: [brianjychan/links](https://brianjychan.com/links)
 
-[reading](https://goodreads.com/brianjychan)
+reading: [goodreads/brianjychan](https://goodreads.com/brianjychan)
 
-[writing](https://brianjychan.com/blog)
+writing: [brianjychan/blog](https://brianjychan.com/blog)
 
-[mixing](https://soundcloud.com/brianjychan/sets/extensions)
+mixing: [soundcloud/brianjychan](https://soundcloud.com/brianjychan/sets/extensions)
 
-[hearing](https://open.spotify.com/user/1246296634?si=3QNGrHBLQUaBuFRiMozdOg)
+hearing: [spotify/brianjychan](https://open.spotify.com/user/1246296634)
 
-[being](https://brianjychan.com)
+being: [brianjychan](https://brianjychan.com)
 
-Send a message! Contact info on my site
+Send a message! Contact info on site.
+
 
 <br/>
 
