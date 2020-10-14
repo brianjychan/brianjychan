@@ -24,15 +24,17 @@ Topics on backburner:
 
 ### What I'm...
 
-browsing: <a href="https://brianjychan.com/links" rel="noopener noreferrer" target="_blank">brianjychan/links</a>
-
-reading: [goodreads/brianjychan](https://goodreads.com/brianjychan)
-
 writing: [brianjychan/blog](https://brianjychan.com/blog)
 
 mixing: [soundcloud/brianjychan](https://soundcloud.com/brianjychan/sets/extensions)
 
+reading: [goodreads/brianjychan](https://goodreads.com/brianjychan)
+
+saving:[brianjychan/links](https://brianjychan.com/links)
+
 hearing: [spotify/brianjychan](https://open.spotify.com/user/1246296634)
+
+sharing: [twitter/brianjychan](https://twitter.com/brianjychan)
 
 being: [brianjychan](https://brianjychan.com)
 
