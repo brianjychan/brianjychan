@@ -30,7 +30,7 @@ mixing: [soundcloud/brianjychan](https://soundcloud.com/brianjychan/sets/extensi
 
 reading: [goodreads/brianjychan](https://goodreads.com/brianjychan)
 
-saving:[brianjychan/links](https://brianjychan.com/links)
+saving: [brianjychan/links](https://brianjychan.com/links)
 
 hearing: [spotify/brianjychan](https://open.spotify.com/user/1246296634)
 
