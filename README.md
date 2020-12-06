@@ -7,7 +7,7 @@
 <br/>
 
 
-## Cool shares
+## Worthy shares
 
 - https://www.bunniestudios.com/blog/?p=4297
 - http://sduk.us/2017/rd_mount_analogue.pdf (Shattuck translation)
@@ -16,4 +16,4 @@
 
 ## Hello!
 
-Send a message! [Contact info.](https://brianjychan.com)
+Send a message! [hmu](https://brianjychan.com)
