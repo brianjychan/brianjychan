@@ -1,48 +1,19 @@
 ### Whats up, I'm thinking about:
 
-- Hardware
-- Cultural Averages
-- [Information intake](https://birdwatching.netlify.app)
-
-Topics on backburner:
-
-- Human Augmentation: can we use newly-introduced technology to improve preemptive cardiovascular medicine?
-
-
-(What came out of last time: [Music](https://soundcloud.com/brianjychan/sets/extensions), Cities became Information intake)
+- ESP32 / IoT
+- 3DP economics
+- children's toys
 
 <br/>
 
-### I've been making:
 
-[Birdwatching](https://birdwatching.netlify.app): intentionally design your Twitter using social graph categorization. Currently working on curation tools, and customizable logic.
+## Cool shares
 
-[AM/FM: All My Friends' Music](https://amfm.me): get a private playlist, updated daily, containing any new songs that chosen friends add to their playlists.
-
-
-<br/>
-
-### What I'm...
-
-writing: [brianjychan/blog](https://brianjychan.com/blog)
-
-mixing: [soundcloud/brianjychan](https://soundcloud.com/brianjychan/sets/extensions)
-
-reading: [goodreads/brianjychan](https://goodreads.com/brianjychan)
-
-saving: [brianjychan/links](https://brianjychan.com/links)
-
-hearing: [spotify/brianjychan](https://open.spotify.com/user/1246296634)
-
-sharing: [twitter/brianjychan](https://twitter.com/brianjychan)
-
-being: [brianjychan](https://brianjychan.com)
-
-Send a message! Contact info on site.
+- https://www.bunniestudios.com/blog/?p=4297
+- http://sduk.us/2017/rd_mount_analogue.pdf (Shattuck translation)
+- https://www.reddit.com/r/videos/comments/jqzgat/anthony_carbajal_creator_of_the_ice_bucket/
 
 
-<br/>
+## Hello!
 
-### Support 
-
-If you'd like, you can [buy me a lunch](https://buymeacoff.ee/brianjychan)!
+Send a message! [Contact info.](https://brianjychan.com)
