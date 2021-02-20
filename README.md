@@ -1,17 +1,19 @@
 ### Whats up, I'm thinking about:
 
 
-- IoT, security
-- drones
-- ESP32, hardware solutions
+- family tools
+- story sharing beyond lifespans
+- synchronizing understandings
+- immune systems and calipers for tech
+- rituals and programs
 
 <br/>
 
 
 ## Worthy shares
 
-- https://www.verdict.co.uk/rainforest-connection-hitachi/
-- https://www.bunniestudios.com/blog/?p=4297
+- https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the
+- https://app.sparkmailapp.com/web-share/Y89s-5zLwhgbcbnKLSk8DgCwEWbMFvEz4HrmdmcY
 - http://sduk.us/2017/rd_mount_analogue.pdf (Shattuck translation)t
 
 <br/>
@@ -22,4 +24,4 @@
 
 ## Reading:
 
-The Dream Machine
+Normal People
